@@ -1,0 +1,15 @@
+C:\Fonts Hypnobox\Football scores\Football scores\bin\Debug\net7.0\Football scores.exe
+C:\Fonts Hypnobox\Football scores\Football scores\bin\Debug\net7.0\Football scores.deps.json
+C:\Fonts Hypnobox\Football scores\Football scores\bin\Debug\net7.0\Football scores.runtimeconfig.json
+C:\Fonts Hypnobox\Football scores\Football scores\bin\Debug\net7.0\Football scores.dll
+C:\Fonts Hypnobox\Football scores\Football scores\bin\Debug\net7.0\Football scores.pdb
+C:\Fonts Hypnobox\Football scores\Football scores\obj\Debug\net7.0\Football scores.csproj.AssemblyReference.cache
+C:\Fonts Hypnobox\Football scores\Football scores\obj\Debug\net7.0\Football scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fonts Hypnobox\Football scores\Football scores\obj\Debug\net7.0\Football scores.AssemblyInfoInputs.cache
+C:\Fonts Hypnobox\Football scores\Football scores\obj\Debug\net7.0\Football scores.AssemblyInfo.cs
+C:\Fonts Hypnobox\Football scores\Football scores\obj\Debug\net7.0\Football scores.csproj.CoreCompileInputs.cache
+C:\Fonts Hypnobox\Football scores\Football scores\obj\Debug\net7.0\Football scores.dll
+C:\Fonts Hypnobox\Football scores\Football scores\obj\Debug\net7.0\refint\Football scores.dll
+C:\Fonts Hypnobox\Football scores\Football scores\obj\Debug\net7.0\Football scores.pdb
+C:\Fonts Hypnobox\Football scores\Football scores\obj\Debug\net7.0\Football scores.genruntimeconfig.cache
+C:\Fonts Hypnobox\Football scores\Football scores\obj\Debug\net7.0\ref\Football scores.dll

@@ -1,0 +1,40 @@
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\REST API Top Articles.csproj.AssemblyReference.cache
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\REST API Top Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\REST API Top Articles.AssemblyInfoInputs.cache
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\REST API Top Articles.AssemblyInfo.cs
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\REST API Top Articles.csproj.CoreCompileInputs.cache
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\REST API Top Articles.MvcApplicationPartsAssemblyInfo.cs
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\REST API Top Articles.MvcApplicationPartsAssemblyInfo.cache
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\appsettings.Development.json
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\appsettings.json
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\REST API Top Articles.exe
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\REST API Top Articles.deps.json
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\REST API Top Articles.runtimeconfig.json
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\REST API Top Articles.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\REST API Top Articles.pdb
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\RestSharp.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\System.Text.Json.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\staticwebassets\msbuild.REST API Top Articles.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\staticwebassets\msbuild.build.REST API Top Articles.props
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.REST API Top Articles.props
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.REST API Top Articles.props
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\staticwebassets.build.json
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\staticwebassets.development.json
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\scopedcss\bundle\REST API Top Articles.styles.css
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\REST API Top Articles.csproj.CopyComplete
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\REST API Top Articles.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\refint\REST API Top Articles.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\REST API Top Articles.pdb
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\REST API Top Articles.genruntimeconfig.cache
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\obj\Debug\net7.0\ref\REST API Top Articles.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\AutoMapper.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\System.Web.Http.dll
+C:\Fonts Hypnobox\REST API Top Articles\REST API Top Articles\bin\Debug\net7.0\Swashbuckle.Core.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "esAaGQnIRK2kLZU8j46A582C3lO1+uj0H8xcg0aAjOYe5ZuLr7UEqBO0OXb0Px0f5eSbgiwlgv/Ty13MmcdWRw==",
+  "success": true,
+  "projectFilePath": "C:\\Fonts Hypnobox\\Football scores\\Football scores\\Football scores.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://ux-agent.plataformahub.com.br:5000'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
